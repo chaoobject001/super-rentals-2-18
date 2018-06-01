@@ -37,7 +37,7 @@ export default function() {
             owner: 'Veruca Salt',
             city: 'San Franscisco',
             category: 'Estate',
-            bedroom: 15,
+            bedrooms: 15,
             image: 'https://upload.wikimedia.org/wikipedia/commons/c/cb/Crane_estate_(5).jpg'
           }
         },
@@ -49,7 +49,7 @@ export default function() {
             owner: 'Mike Teavee',
             city: 'Seattle',
             category: 'Condo',
-            bedroom: 1,
+            bedrooms: 1,
             image: 'https://upload.wikimedia.org/wikipedia/commons/0/0e/Alfonso_13_Highrise_Tegucigalpa.jpg'
           }
         }, 
@@ -61,7 +61,7 @@ export default function() {
             owner: 'Violet Beauregarde',
             city: 'Portland',
             category: 'Apartment',
-            bedroom: 3,
+            bedrooms: 3,
             image: 'https://upload.wikimedia.org/wikipedia/commons/f/f7/Wheeldon_Apartment_Building_-_Portland_Oregon.jpg'
           }
         }
