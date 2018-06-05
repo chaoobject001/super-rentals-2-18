@@ -25,7 +25,7 @@ export default Component.extend({
       // );
       filterAction(filterInputValue).then((filterResults) => {
         if(filterResults.query === this.get('value')) {
-          this.set(results, filterResults.results);
+          this.set('results', filterResults.results);
         }
       });
     }
