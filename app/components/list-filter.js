@@ -1,7 +1,7 @@
 import Component from '@ember/component';
 
 export default Component.extend({
-  className: ['list-filter'],
+  classNames: ['list-filter'],
   value: '',
   // init hook seed initial listing 
   init() {
